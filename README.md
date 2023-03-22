@@ -49,14 +49,7 @@ This project is designed to be a clone of Chatagpt, a chatbot developed by OpenA
 **Vercel**
 Host your own live version of Chatbot UI with Vercel.
 
-Do not forget to set your global variables
-
-    GOOGLE_ID=YOUR_GOOGLE_CLIENT_ID
-    GOOGLE_SECRET=YOUR_GOOGLE_CLIENT_SECRET
-    NEXTAUTH_URL=YOUR_APP_URL
-    NEXTAUTH_SECRET=ANY_SECRET_KEY
-    OPENAI_API_KEY=YOUR_OPENAI_API_KEY
-    FIREBASE_SERVICE_KEY=YOUR_FIREBASE_PRIVATE_KEY_JSON
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhareeshr%2Fchatgpt-clone&env=GOOGLE_ID,GOOGLE_SECRET,NEXTAUTH_URL,NEXTAUTH_SECRET,OPENAI_API_KEY,FIREBASE_SERVICE_KEY&project-name=chatgpt-clone&repository-name=chatgpt-clone&demo-title=ChatGPT%20CLone&demo-description=A%20functional%20clone%20of%20ChatGPT%20using%20OpenAI%20API&demo-url=https%3A%2F%2Fchatgpt-clone.hareeshr.me%2F)
     
 ## Run Locally
 **1. Clone Repo**
