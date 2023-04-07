@@ -53,6 +53,7 @@ Host your own live version of Chatbot UI with Vercel.
     
 ## Run Locally
 **1. Clone Repo**
+
 **2. Install Dependencies**
 
     npm i
